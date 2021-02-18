@@ -23,7 +23,7 @@ timeBoot = datetime.datetime.now().strftime("%H:%M %m-%d-%Y")
 
 bot = commands.Bot(command_prefix='>',
                       description='Assisting the users!',
-                      owner_id=416043861950070784,
+                      owner_id=YourID,
                       case_insensitive=True)
 bot.remove_command('help')
 
