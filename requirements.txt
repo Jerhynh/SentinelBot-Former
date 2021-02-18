@@ -1,0 +1,4 @@
+asyncio
+discord
+requests
+youtube-dl
